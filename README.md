@@ -8,12 +8,12 @@ This project analyzes financial transaction data to identify fraud patterns, und
 
 ## 🛠️ Tools Used
 
+- SQL
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- SQL
 - Jupyter Notebook
 
 ---
