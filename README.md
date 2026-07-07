@@ -1,49 +1,42 @@
-# 🚨 Financial Fraud Detection and Transaction Analysis
+# 📊 Financial Sales Analysis Dashboard
 
 ## 🌟 Project Overview
 
-This project analyzes financial transaction data to identify fraud patterns, understand transaction behavior, and measure the financial impact of fraudulent activities.
+This project analyzes financial sales data to understand sales performance, profit trends, product performance, and customer segments using Power BI.
 
 ---
 
 ## 🛠️ Tools Used
 
-- SQL
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+- Power BI
+- Power Query
+- Excel
 
 ---
 
 ## ❓ Business Questions
 
-- What percentage of transactions are fraudulent?
-- Which transaction type has the highest fraud rate?
-- Which transaction type processes the highest transaction amount?
-- Are high-value transactions more likely to be fraudulent?
-- How do account balances change during fraudulent transactions?
-- What is the total financial impact of fraud?
-- Which transaction categories contribute most to fraud losses?
-- What factors can help identify suspicious transactions?
+- What are the total sales and profit?
+- Which segment generates the highest sales?
+- Which country contributes the highest sales?
+- Which products perform best?
+- How do discounts impact profit?
+- How do sales change over time?
 
 ---
 
 ## 📂 Files
 
-- Financial_Fraud_Detection_Analysis.sql
-- Financial_Fraud_Visualization.ipynb
+- Financial_Sample.xlsx
+- Financial_Sales_Dashboard.pbix
+- Dashboard Screenshots
 
 ---
 
 ## 📈 Key Insights
 
-- Fraud rate is only **0.843%** of total transactions.
-- CASH_OUT has the highest fraud rate.
-- TRANSFER processes the highest transaction amount.
-- High-value transactions are more likely to be fraudulent.
-- Fraudulent transactions show irregular balance behavior.
-- TRANSFER contributes the highest fraud losses.
-- Transaction Amount, Transaction Type, and Account Balance are key indicators of suspicious transactions.
+- Identified top-performing products and segments.
+- Analyzed sales and profit trends over time.
+- Compared country-wise sales performance.
+- Studied the impact of discounts on profitability.
+- Found products and segments contributing most to revenue.
